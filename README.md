@@ -1,9 +1,9 @@
 # cuda-monte_carlo_walks
-Monte Carlo algoritms
+Monte-Carlo walks algoritms
 
 Walk in cylinders
 Walk in border
 
-Solution of the space-time Inner Dirichlet Problem For the Laplace equation using CUDA API
+Solution of the space-time Inner Dirichlet Problem for the Laplace equation using CUDA API
 
 
